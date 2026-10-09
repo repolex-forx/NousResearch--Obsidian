@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/Obsidian/commit/06124f2a8f04f9a026265bbca931dfdf9eef249e",
       "git:hexsha": "06124f2a8f04f9a026265bbca931dfdf9eef249e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
